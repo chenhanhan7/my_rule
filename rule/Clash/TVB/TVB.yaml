@@ -1,10 +1,11 @@
 # NAME: TVB
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
+# AUTHOR: chenhanhan7
+# REPO: https://github.com/chenhanhan7/my_rule
 # UPDATED: 2025-06-06 09:17:00
 # DOMAIN: 3
+# DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 18
-# TOTAL: 21
+# TOTAL: 23
 payload:
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,edge.api.brightcove.com
@@ -26,4 +27,5 @@ payload:
   - DOMAIN-SUFFIX,tvbweekly.com
   - DOMAIN-SUFFIX,tvmedia.net.au
   - DOMAIN-SUFFIX,videos-f.jwpsrv.com
-  - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-KEYWORD,nowtv100
+  - DOMAIN-KEYWORD,rthklive
