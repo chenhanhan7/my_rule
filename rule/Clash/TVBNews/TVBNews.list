@@ -2,8 +2,10 @@
 # AUTHOR: chenhanhan7
 # REPO: https://github.com/chenhanhan7/my_rule
 # UPDATED: 2025-06-06 09:17:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 DOMAIN-SUFFIX,news.tvb.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,tvmedia.net.au
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
