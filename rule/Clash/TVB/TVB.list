@@ -1,12 +1,12 @@
 # NAME: TVB
 # AUTHOR: chenhanhan7
 # REPO: https://github.com/chenhanhan7/my_rule
-# UPDATED: 2025-06-06 09:17:00
+# UPDATED: 2025-07-15 15:40:00
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 18
-# TOTAL: 23
-DOMAIN,bcbolt446c5271-a.akamaihd.net
+# DOMAIN-SUFFIX: 57
+# TOTAL: 62
+DOMAIN,bcbolt446c5271-a.akamaihd.net    
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
 DOMAIN-SUFFIX,bigbigchannel.com.hk
@@ -27,5 +27,44 @@ DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,edgeware-live.edgeware.tvb.com
+DOMAIN-SUFFIX,hk4-edge33-1.edgeware.tvb.com
+DOMAIN-SUFFIX,hk4-edge17-1.edgeware.tvb.com
+DOMAIN-SUFFIX,hk4-edge12-1.edgeware.tvb.com
+DOMAIN-SUFFIX,hk4-edge25-1.edgeware.tvb.com
+DOMAIN-SUFFIX,img.tvb.com
+DOMAIN-SUFFIX,schema.org
+DOMAIN-SUFFIX,favicon.ico
+DOMAIN-SUFFIX,doc.s3.amazonaws.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,fundingchoicesmessages.google.com
+DOMAIN-SUFFIX,s0.2mdn.net
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,securepubads.g.doubleclick.net
+DOMAIN-SUFFIX,hk4-edge23-1.edgeware.tvb.com
+DOMAIN-SUFFIX,imasdk.googleapis.com
+DOMAIN-SUFFIX,csp.withgoogle.com
+DOMAIN-SUFFIX,firestore.googleapis.com
+DOMAIN-SUFFIX,mai.tvb.com
+DOMAIN-SUFFIX,t-mai.tvb.com
+DOMAIN-SUFFIX,ad.doubleclick.net
+DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,iab.com
+DOMAIN-SUFFIX,pubads.g.doubleclick.net
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,api.superstore.tvb.com
+DOMAIN-SUFFIX,pubads.g.doubleclick.net    
+DOMAIN-SUFFIX,tvb-message-center.appspot.com
+DOMAIN-SUFFIX,doubleclickbygoogle.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,ads.cdn.tvb.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,i1.ads.vip.hk4.tvb.com
+DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
