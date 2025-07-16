@@ -3,9 +3,9 @@
 # REPO: https://github.com/chenhanhan7/my_rule
 # UPDATED: 2025-07-15 15:40:00
 # DOMAIN: 3
-# DOMAIN-KEYWORD: 2
+# DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 57
-# TOTAL: 62
+# TOTAL: 61
 DOMAIN,bcbolt446c5271-a.akamaihd.net    
 DOMAIN,edge.api.brightcove.com
 DOMAIN,tvbtracking.azurewebsites.net
@@ -66,5 +66,4 @@ DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,i1.ads.vip.hk4.tvb.com
 DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net
 DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
-DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
