@@ -4,7 +4,7 @@
 # UPDATED: 2025-07-15 15:40:00
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 56
+# DOMAIN-SUFFIX: 57
 # TOTAL: 62
 DOMAIN,bcbolt446c5271-a.akamaihd.net    
 DOMAIN,edge.api.brightcove.com
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
 DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvb.com.au
 DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tvbanywhere.com.sg
