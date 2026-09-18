@@ -5,7 +5,7 @@
 
 ![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
 
-NowE规则由《RULE GENERATOR 规则生成器》自动生成。
+carousell规则由《RULE GENERATOR 规则生成器》自动生成。
 
 分流规则是互联网公共服务的域名和IP地址汇总，所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。
 
@@ -25,37 +25,14 @@ NowE规则由《RULE GENERATOR 规则生成器》自动生成。
 ## Clash 
 
 #### 使用说明
-- NowE.yaml，请使用 behavior: "classical"。
-- NowE_Resolve.yaml，请使用 behavior: "classical"。
+- carousell.yaml，请使用 behavior: "classical"。
+- carousell_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
-- NowE.yaml 单独使用。
-- NowE_Resolve.yaml 单独使用。
+- carousell.yaml 单独使用。
+- carousell_Resolve.yaml 单独使用。
 
 #### 规则链接
-**MASTER分支 (每日更新)**
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NowE/NowE.yaml
-
-**MASTER分支 CDN (每日更新)**
-
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/NowE/NowE.yaml
-
-**MASTER分支 GHProxy (每日更新)**
-
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NowE/NowE.yaml
-
-**RELEASE分支 (不定时更新)**
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/NowE/NowE.yaml
-
-**RELEASE分支CDN (不定时更新)**
-
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/NowE/NowE.yaml
-
-**RELEASE分支 GHProxy (不定时更新)**
-
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/NowE/NowE.yaml
 
 ## 子规则/排除规则
 
