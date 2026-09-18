@@ -2,32 +2,9 @@
 # AUTHOR: chenhanhan7
 # REPO: https://github.com/chenhanhan7/my_rule
 # UPDATED: 2025-07-14 15:07:50
-# DOMAIN-SUFFIX: 27
-# TOTAL: 27
-DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,nowestatic.com
-DOMAIN-SUFFIX,now.com
-DOMAIN-SUFFIX,nowplayer.now.com
-DOMAIN-SUFFIX,now-ashare.com
-DOMAIN-SUFFIX,now-tv.com
-DOMAIN-SUFFIX,now.com.hk
-DOMAIN-SUFFIX,nowe.hk
-DOMAIN-SUFFIX,nowtv.now.com
-DOMAIN-SUFFIX,news.now.com
-DOMAIN-SUFFIX,viu.com
-DOMAIN-SUFFIX,viu.tv
-DOMAIN-SUFFIX,viu.now.com
-DOMAIN-SUFFIX,com.viu.pad
-DOMAIN-SUFFIX,com.viu.phone
-DOMAIN-SUFFIX,com.vuclip.viu
-DOMAIN-SUFFIX,ewcdn15.nowe.com
-DOMAIN-SUFFIX,licensing.bitmovin.com
-DOMAIN-SUFFIX,id.now.com
-DOMAIN-SUFFIX,pubads.g.doubleclick.net
-DOMAIN-SUFFIX,nowtvstatic.now.com
-DOMAIN-SUFFIX,fwp.now.com
-DOMAIN-SUFFIX,ewcdn16.nowe.com
-DOMAIN-SUFFIX,images.now-tv.com
-DOMAIN-SUFFIX,ewcdn104.nowe.com
-DOMAIN-SUFFIX,d2r1yp2w7bby2u.cloudfront.net
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,carousell.com.hk
+DOMAIN-SUFFIX,ndcfever.com
+
 
